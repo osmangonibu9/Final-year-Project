@@ -25,5 +25,5 @@ This project presents a GIS-based framework for assessing cyclone risk in coasta
 - Insights to support targeted adaptation and disaster mitigation planning
 
 ## Author
-[Your Name]
+[Md. Osman Goni]
 Undergraduate Final Year Project, Department of Coastal Studies and Disaster Management, University of Barishal
